@@ -7,19 +7,19 @@ Scientists can use this classifier to automatically label whether an image taken
 ![el](galaxy_photos/elliptical/pic_023.jpg)
 ![el](galaxy_photos/spiral/pic_004.jpg)
 
-##Requirements
+## Requirements
 
 * [docker](https://www.docker.com/products/docker-toolbox)
 
-##Usage 
+## Usage 
 
 1. Start the docker image `docker run -it -v ~/projects/dump/tf_files/:/tf_files/ gcr.io/tensorflow/tensorflow:latest-devel`
 
 2. Run the label_image script to label the image. `python /tf_files/label_image.py <path_to_file>`
 
-##Results
+## Results
 
-###Accuracy
+### Accuracy
 ![accuracy](screenshots/accuracy.png)
 ###Test Elliptical Galaxy Image
 ![accuracy](screenshots/test_el.png)
