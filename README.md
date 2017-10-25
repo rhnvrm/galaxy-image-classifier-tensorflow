@@ -1,6 +1,6 @@
 # Tensorflow Elliptical vs Sprial Galaxy Image Classifier
 
-This is the repository developed for 'Image Classifier in TensorFlow in 5 Min on [YouTube](https://youtu.be/QfNvhPx5Px8) using this [CodeLab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0) by Google as a guide. 
+This is the repository developed for 'Image Classifier in TensorFlow in 5 Min' on [YouTube](https://youtu.be/QfNvhPx5Px8) - [Code for video here](https://github.com/llSourcell/tensorflow_image_classifier), using this [CodeLab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0) by Google as a guide. 
 
 Scientists can use this classifier to automatically label whether an image taken by telescope is of a Spiral Galaxy or an Elliptical one.
 
